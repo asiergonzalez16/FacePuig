@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26856822278",
+    "project_id": "facepuig-cbe4b",
+    "storage_bucket": "facepuig-cbe4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26856822278:android:fe4f3ea2636e6a6c871587",
+        "android_client_info": {
+          "package_name": "com.example.facepuig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26856822278-hg95sodbhaknlsq036ji7kqisi9688s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA46AH8j9kHTM1OsUFet-MIuxSBhp3YU1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26856822278-hg95sodbhaknlsq036ji7kqisi9688s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
